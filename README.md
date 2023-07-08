@@ -1,12 +1,12 @@
 <div align="center" >
-   <a href="https://github.com/teyang-lau">
+   <a href="https://github.com/priyanka-gyan">
    <img width=100% src="https://github.com/priyanka-gyan/priyanka-gyan/blob/ef3eacc2cf15a3c25706dd023dec3219aeadeb82/pictures/Priyanka.gif" width=80% height=230px href="https://github.com/priyanka-gyan" /></a>
 </div>
 <h4 align="center">I am a B.Tech CSE undergraduate student who is passionate about Competitive Programming and Web Development alongside being pretty active and participating in events that encourage me to learn. Proficient in Python and also have strong foundations of data structures, algorithms and coding fundamentals which help me to understand and alleviate problems.</h4>
 <br>
 
 
-- 🏆 Github Profile Trophy
+- 🏆 Github Profile Trophies
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka-gyan&column=7" alt="priyanka-gyan" /></a> </p>
 
