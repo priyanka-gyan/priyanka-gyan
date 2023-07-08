@@ -1,7 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Priyanka's+GitHub+Profile!)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Priyanka Gyanchandani</h1>
+<div align="center" >
+   <a href="https://github.com/teyang-lau">
+   <img width=100% src="https://github.com/priyanka-gyan/priyanka-gyan/blob/ef3eacc2cf15a3c25706dd023dec3219aeadeb82/pictures/Priyanka.gif" width=80% height=230px href="https://github.com/priyanka-gyan" /></a>
+</div>
 <h4 align="center">I am a B.Tech CSE undergraduate student who is passionate about Competitive Programming and Web Development alongside being pretty active and participating in events that encourage me to learn. Proficient in Python and also have strong foundations of data structures, algorithms and coding fundamentals which help me to understand and alleviate problems.</h4>
 <br>
+
 
 - 🏆 Github Profile Trophy
   
