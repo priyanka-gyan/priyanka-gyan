@@ -33,14 +33,13 @@
 <h3> 📈 GitHub Stats</h3>
 <table>
 <tr>
-<td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka-gyan&show_icons=true&locale=en&layout=compact" alt="priyanka-gyan" /></p></td>
+<td><p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=priyanka-gyan&show_icons=true&locale=en&layout=compact" alt="priyanka-gyan" /></p></td>
 </tr>
-<tr><td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka-gyan&show_icons=true&locale=en" alt="priyanka-gyan" /></p></td>
+<tr><td><p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyanka-gyan&show_icons=true&locale=en" alt="priyanka-gyan" /></p></td>
 </tr>
 <tr>
 <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-gyan&" alt="priyanka-gyan" /></p></td>
 </tr>
 </table>
 <h3> ⚡ Activity: </h3>
-  
 <a href=#><img src="contributions.svg"></a>
