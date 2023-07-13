@@ -18,10 +18,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pgyanchandani5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pgyanchandani5" height="20" width="30" /></a>
-<a href="https://www.linkedin.com/in/priyanka-gyanchandani-12487b252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka gyanchandani" height="20" width="30" /></a>
-<a href="https://www.kaggle.com/priyankagyanchandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyanka gyanchandani" height="20" width="30" /></a>
-<a href="https://www.codechef.com/users/priyanka_0505" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanka_0505" height="20" width="30" /></a>
+<a href="https://twitter.com/pgyanchandani5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pgyanchandani5" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/priyankagyanchandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankagyanchandani" height="30" width="30" /></a>
+<a href="https://kaggle.com/priyanka gyanchandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyanka gyanchandani" height="30" width="30" /></a>
+<a href="https://instagram.com/_priyankagyanchandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priyankagyanchandani" height="30" width="30" /></a>
+<a href="https://medium.com/@priyankagyanchandani05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priyankagyanchandani05" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/priyanka_0505" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanka_0505" height="30" width="30" /></a>
+<!-- <a href="https://www.leetcode.com/priyanka0505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanka0505" height="30" width="40" /></a> -->
+</p>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
