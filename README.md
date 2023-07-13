@@ -50,5 +50,7 @@
 <tr><td><p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanka-gyan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" /></p></td></tr>
 </table>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://bmc.link/priyankagyanchandani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/priyankagyanchandani" /></a></p><br><br>
 <!-- <h3> ⚡ Activity: </h3>
 <a href=#><img src="contributions.svg"></a> -->
