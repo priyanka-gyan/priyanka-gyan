@@ -10,8 +10,9 @@
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka-gyan&column=7" alt="priyanka-gyan" /></a> </p>
 
-
-- 📝 I regularly write articles on [https://priyankagyan.wixsite.com/website](https://priyankagyan.wixsite.com/website)
+- 💼 My Portfolio: [Priyanka Gyanchandani's Portfolio](https://priyanka-gyan.github.io/Personal-Portfolio/)
+  
+- 📝 I regularly write articles on [Priyanka Gyanchandani's Website](https://priyankagyan.wixsite.com/website)
 
 - 📫 How to reach me **priyankagyanchandani05@gmail.com**
 
