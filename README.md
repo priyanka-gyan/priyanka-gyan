@@ -33,7 +33,7 @@
 <h3> 📈 GitHub Stats</h3>
 <table>
 <tr>
-<td><p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=priyanka-gyan&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="priyanka-gyan" alt="priyanka-gyan" /></p></td>
+<td><p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=priyanka-gyan&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="priyanka-gyan" alt="priyanka-gyan" /></p></td>
 </tr>
 <tr><td><p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyanka-gyan&show_icons=true&locale=en&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="priyanka-gyan" /></p></td>
 </tr>
@@ -42,6 +42,8 @@
 </p>
 <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=priyanka-gyan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="priyanka-gyan" /></p></td>
 </tr>
+<tr><td><p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanka-gyan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" /></p></td></tr>
 </table>
+
 <!-- <h3> ⚡ Activity: </h3>
 <a href=#><img src="contributions.svg"></a> -->
