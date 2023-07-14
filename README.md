@@ -12,7 +12,7 @@
 
 - 💼 My Portfolio: [Priyanka Gyanchandani's Portfolio](https://priyanka-gyan.github.io/Personal-Portfolio/)
   
-- 📝 I regularly write articles on [Priyanka Gyanchandani's Website](https://priyankagyan.wixsite.com/website)
+- 📝 I regularly write articles on [Priyanka Gyanchandani's Blog](https://priyankagyan.wixsite.com/website)
 
 - 📫 How to reach me **priyankagyanchandani05@gmail.com**
 
