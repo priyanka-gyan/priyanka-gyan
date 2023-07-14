@@ -5,10 +5,9 @@
 <h4 align="center">I am a B.Tech CSE undergraduate student who is passionate about Competitive Programming and Web Development alongside being pretty active and participating in events that encourage me to learn. Proficient in Python and also have strong foundations of data structures, algorithms and coding fundamentals which help me to understand and alleviate problems.</h4>
 <br>
 
-
 - 🏆 Github Profile Trophies
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka-gyan&column=7" alt="priyanka-gyan" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka-gyan&column=7&theme=onedark" alt="priyanka-gyan" /></a> </p>
 
 - 💼 My Portfolio: [Priyanka Gyanchandani's Portfolio](https://priyanka-gyan.github.io/Personal-Portfolio/)
   
