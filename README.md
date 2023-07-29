@@ -48,8 +48,15 @@
 </tr>
 <tr><td><p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanka-gyan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" /></p></td></tr>
 </table>
-
+<!--
+## Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/priyanka0505?ext=heatmap&animation=true)](https://leetcode.com/priyanka0505)
+  -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/priyankagyanchandani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="https://bmc.link/priyankagyanchandani" /></a></p><br><br>
 <!-- <h3> ⚡ Activity: </h3>
 <a href=#><img src="contributions.svg"></a> -->
+
+### Visitor Count:
+
+![](https://komarev.com/ghpvc/?username=priyankagyan&label=Priyanka's+Profile+Visitors&color=blueviolet)
