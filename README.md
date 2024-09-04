@@ -2,7 +2,7 @@
    <a href="https://github.com/priyanka-gyan">
    <img width=100% src="https://github.com/priyanka-gyan/priyanka-gyan/blob/ef3eacc2cf15a3c25706dd023dec3219aeadeb82/pictures/Priyanka.gif" width=80% height=230px href="https://github.com/priyanka-gyan" /></a>
 </div>
-<h4 align="center">I am a B.Tech CSE undergraduate student who is passionate about Competitive Programming and Web Development alongside being pretty active and participating in events that encourage me to learn. Proficient in Python and also have strong foundations of data structures, algorithms and coding fundamentals which help me to understand and alleviate problems.</h4>
+<h4 align="center">I am currently working as a Software Developer in John Deere. With a B.Tech in CSE, I have a strong passion for Competitive Programming and Web Development. My proficiency in Python, along with a solid foundation in data structures, algorithms, and coding fundamentals, enables me to efficiently solve complex problems. I am also actively engaged in events that foster continuous learning and professional development.</h4>
 <br>
 
 - 🏆 Github Profile Trophies
